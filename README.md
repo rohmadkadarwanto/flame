@@ -24,10 +24,3 @@ Flame Framework adalah sebuah framework PHP berbasis CodeIgniter 3 yang dirancan
 
 4. **Mulai Pengembangan**:
    Sekarang Anda dapat mulai mengembangkan aplikasi menggunakan Flame Framework.
-
-### Instalasi melalui Composer
-
-Untuk memasang Flame Framework melalui Composer, jalankan perintah berikut di terminal:
-
-```bash
-composer require rohmadkadarwanto/flame
