@@ -37,5 +37,7 @@
         "psr-4": {
             "Kodhe\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
